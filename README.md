@@ -25,7 +25,7 @@
 |:------------:|:----------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------:|
 | Mainboard    | ROG STRIX Z690-A GAMING WIFI | [rog.asus.com](https://rog.asus.com/motherboards/rog-strix/rog-strix-z690-a-gaming-wifi-model/)                                                |
 | Processor    | Intel Core i5 13600KF        | [ark.intel.com](https://ark.intel.com/content/www/us/en/ark/products/230494/intel-core-i5-13600kf-processor-24m-cache-up-to-5-10-ghz.html)     |
-| DDR4 RAM     | Corsair 128GB                | [www.corsair.com](https://www.corsair.com/ja/zh/%E7%B1%BB%E5%88%AB/%E4%BA%A7%E5%93%81/%E5%86%85%E5%AD%98/VENGEANCE-LPX/p/CMK128GX4M4A2666C16)  |
+| DDR5 RAM     | Corsair 128GB                | [www.corsair.com](https://www.corsair.com/ja/zh/%E7%B1%BB%E5%88%AB/%E4%BA%A7%E5%93%81/%E5%86%85%E5%AD%98/VENGEANCE-LPX/p/CMK128GX4M4A2666C16)  |
 | NVMe SSD     | PC SN540 NVMe SSD - 1 TB     | [www.westerndigital.com](www.westerndigital.com)                                                                                               |
 | Graphics     | AMD Radeon RX 6600xt         | [www.amd.com](https://www.amd.com/en/products/graphics/amd-radeon-rx-6600-xt)                                                                  |
 | Audio        | Realtek ALC1220              | [Supported-codecs](https://github.com/acidanthera/AppleALC/wiki/Supported-codecs)                                                              |
