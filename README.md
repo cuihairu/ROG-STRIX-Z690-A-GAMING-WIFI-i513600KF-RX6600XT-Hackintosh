@@ -4,14 +4,10 @@
 
 ### Branch
 
-- main
-   sonoma intel wifi
-- sonoma-bcm
-   sonoma bcm wifi
-- ventura-intel
-   ventura intel wifi
-- ventura-bcm
-   ventura bcm wifi
+- main: [sonoma intel wifi](https://github.com/cuihairu/ROG-STRIX-Z690-A-GAMING-WIFI-i513600KF-RX6600XT-Hackintosh)
+- sonoma-bcm: [sonoma bcm wifi](https://github.com/cuihairu/ROG-STRIX-Z690-A-GAMING-WIFI-i513600KF-RX6600XT-Hackintosh/tree/sonoma-bcm)
+- ventura-intel: [ventura intel wifi](https://github.com/cuihairu/ROG-STRIX-Z690-A-GAMING-WIFI-i513600KF-RX6600XT-Hackintosh/tree/ventura-intel)
+- ventura-bcm: [ventura bcm wifi](https://github.com/cuihairu/ROG-STRIX-Z690-A-GAMING-WIFI-i513600KF-RX6600XT-Hackintosh/tree/ventura-bcm)
 
 
 
